@@ -8,7 +8,7 @@ import re
 import time
 
 # From GCP YT API Key (需上GCP申請API KEY)
-youtube_api_key = "AIzaSyA4CFlvP9dPOGLnlzjTG8exycj4qeV65dY"
+youtube_api_key = # GCP YT KEY
 video_id = 'Mb0w8xiwGQw'  # key in video id from video url(根據所需影片添加id)
 
 
